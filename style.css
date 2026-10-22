@@ -1,0 +1,10 @@
+/* Starting Site Specifics */
+body {
+    background-image: url('sand-texture.jpg');
+    background-color: #000;
+    opacity: 0.1, filter:alpha(opacity=10);
+}
+
+h1 {
+
+}
