@@ -1,2 +1,5 @@
 # LuckyPenny
 Website for the book we wrote.
+Over a hundred cycles since the world had been turned into a dust bowl, Julietta Milard found herself settling in the small upstart town of Waterwealt. Acting as the local restorer and repairer, her life was a constant hum of work. That was until about two cycles into her endeavours, when a dust storm spun through, changing the course of her life.
+
+In its aftermath, she found a mysterious young girl at her door. Sick, injured, mute, and with nothing but a strangely marked pressed penny necklace for identification, Julietta took her in. Naming her Penny, she nursed her back to health, becoming her guardian. Curious about this child’s past but with nothing to go off of, another cycle came and went. Until another dust storm rolls in, bringing with it the past that Penny wished to remain hidden.
